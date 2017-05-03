@@ -33,4 +33,9 @@ class SystemCheck
       return true
     end
   end
+
+  def submittable?
+    return true
+  end
+
 end
